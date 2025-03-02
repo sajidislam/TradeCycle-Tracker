@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store  # (For macOS users)
-
+input.txt
+transactions.csv
